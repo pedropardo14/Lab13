@@ -23,7 +23,7 @@ void reed_ekidan2() {
 
 void ppardo3_jbolan6() {
 	printf("Pedro Pardo and Jose Bolan\n");
-	printf("");
+	printf("We learned how to clone and add things to gitHub using git Commands");
 }
 
 int main()
